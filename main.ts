@@ -1,6 +1,4 @@
-//import { si, pantsu } from "C:\\Users\\Tomek\\AppData\\Local\\Microsoft\\TypeScript\\3.9\\node_modules\\@types\\nyaapi\\index"
 import { si, pantsu } from 'nyaapi';
-//const { si, pantsu } = require("nyaapi");
 import { Dictionary } from "./dictionary"
 import { NyaaResponse } from "./nyaaResponse"
 
